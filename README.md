@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @greeneley
 - 👀 I’m interested in researching the Machine Learning application 
 
-Copyright readme template from Tinpham https://github.com/greeneley/tinspham209
 
 <!---
 greeneley/greeneley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +45,6 @@ const tdinh = {
 		<img src="https://komarev.com/ghpvc/?username=greeneley">
 	</a>
 </p>
+
+
+Copyright readme template from Tinpham https://github.com/greeneley/tinspham209
