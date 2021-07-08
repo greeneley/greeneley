@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30px"/> A little more about me...
 
 ```js
-const tinspham = {
+const tdinh = {
   pronouns: "He" | "Him",
   name: "Dinh Thanh Hai",
   location: "Da Nang city, Vietnam",
