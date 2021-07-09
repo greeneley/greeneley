@@ -57,6 +57,4 @@ More on [mathley.me](https://mathley.me/)
 
 
 ----
------
-
 Copyright readme template from Tinpham https://github.com/greeneley/tinspham209
