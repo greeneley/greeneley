@@ -10,24 +10,22 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
+- 🔭 I’m currently working in `MGM Technology Parners Vietnam` as `Senior Software Engineer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/greeneley)**
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 - 😄 Pronouns: He/Him/We
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
-
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> -->
+<!-- 
 <p align="center">
 
 - 📋 Languages:
@@ -124,7 +122,7 @@
 </p>
 
 <br> 
-
+ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
@@ -149,8 +147,4 @@
 &nbsp;<a href="https://stackoverflow.com/users/19234611" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40" />StackOverflow</a>
 &nbsp;<a href="skype:sarath2375?add" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/176819343-c1894b0e-8622-4a39-a34c-fd4125d32d4d.gif" alt="sarath2375" width="40" /></a>
   
-  
 
------
-Credits: [Sarath P M](https://github.com/sarath-pm)
-Last Edited on: 10/07/2022
