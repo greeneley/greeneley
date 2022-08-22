@@ -21,6 +21,26 @@ const tdinh = {
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
 
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
+
+- 👯 I’m looking forward to collaborate on open source projects.
+
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+
+- 😄 Pronouns: He/Him/We
+
+- ⚡ Coding fact: "There are over 700 different programming languages".
+
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td align="left">
