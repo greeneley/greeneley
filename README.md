@@ -10,7 +10,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `MGM Technology Parners Vietnam` as `Software Engineer`
+- 🔭 I’m currently working in `mgm Technology Parners Vietnam` as `Software Engineer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
