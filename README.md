@@ -128,11 +128,9 @@
 
 <p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=greeneley&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300">
 <img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=greeneley">
-<img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=greeneley&show_icons=true/460/300">
-<img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeneley&show_icons=true&locale=en&layout=compact&theme=compact"/460/300">
   </p>
 
-
+<img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=greeneley&show_icons=true/460/300">
 
 <br>
 
