@@ -10,8 +10,6 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 👯 I’m looking forward to collaborate on open source projects.
-
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/greeneley)**
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
